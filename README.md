@@ -1,2 +1,2 @@
 # logmanagershcoolproject
-School project
+My first school project
